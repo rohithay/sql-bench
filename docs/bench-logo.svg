@@ -1,0 +1,39 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="400" cy="400" r="330" fill="#1E293B" />
+  <circle cx="400" cy="400" r="330" stroke="#0EA5E9" stroke-width="4" stroke-opacity="0.3" />
+  
+  <!-- Terminal Window Frame -->
+  <rect x="180" y="250" width="440" height="300" rx="12" fill="#0F172A" stroke="#64748B" stroke-width="4" />
+  
+  <!-- Terminal Header -->
+  <rect x="180" y="250" width="440" height="40" rx="12" fill="#334155" stroke="#64748B" stroke-width="4" />
+  
+  <!-- Terminal Buttons -->
+  <circle cx="210" cy="270" r="8" fill="#EF4444" />
+  <circle cx="240" cy="270" r="8" fill="#F59E0B" />
+  <circle cx="270" cy="270" r="8" fill="#10B981" />
+  
+  <!-- Command Prompt and Text -->
+  <text x="200" y="335" fill="#A0AEC0" font-family="monospace" font-size="20">$</text>
+  <text x="230" y="335" fill="#38BDF8" font-family="monospace" font-size="20" font-weight="bold">bench</text>
+  <text x="300" y="335" fill="#F472B6" font-family="monospace" font-size="20">dryrun</text>
+  <text x="380" y="335" fill="#A0AEC0" font-family="monospace" font-size="20">"SELECT * FROM..."</text>
+  
+  <!-- Result Box -->
+  <rect x="200" y="350" width="400" height="100" rx="6" fill="#172033" stroke="#38BDF8" stroke-width="1.5" />
+  
+  <!-- Result Output -->
+  <text x="220" y="380" fill="#22C55E" font-family="monospace" font-size="18">✓ Query valid</text>
+  <text x="220" y="410" fill="#A0AEC0" font-family="monospace" font-size="16">Bytes: <tspan fill="#F59E0B">1.2 GB</tspan></text>
+  <text x="220" y="440" fill="#A0AEC0" font-family="monospace" font-size="16">Cost: <tspan fill="#F59E0B">$0.006</tspan></text>
+  
+  <!-- BigQuery Logo Simplified -->
+  <g transform="translate(550, 390) scale(0.08)">
+    <path d="M385.8,200.9h152.9v306.3H385.8V200.9z M385.8,573.8h152.9v76H385.8V573.8z M233.8,349.8h152v230.4h-152 V349.8z M233.8,124.9h152v152h-152V124.9z M80.8,200.9h153v382.9h-153V200.9z" fill="#4285F4" />
+  </g>
+  
+  <!-- Text at bottom -->
+  <text x="400" y="600" text-anchor="middle" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="36" font-weight="bold">bench</text>
+  <text x="400" y="640" text-anchor="middle" fill="#94A3B8" font-family="Arial, sans-serif" font-size="18">BigQuery Toolkit</text>
+</svg>
