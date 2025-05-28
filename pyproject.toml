@@ -39,9 +39,9 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/rohithay/bench-bq"
-"Bug Tracker" = "https://github.com/rohithay/bench-bq/issues"
-"Source Code" = "https://github.com/rohithay/bench-bq"
+"Homepage" = "https://github.com/rohithay/bench"
+"Bug Tracker" = "https://github.com/rohithay/bench/issues"
+"Source Code" = "https://github.com/rohithay/bench"
 
 [project.scripts]
 bench = "bench.cli:cli"
