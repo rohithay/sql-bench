@@ -1,4 +1,7 @@
 # bench
+<p align="center">
+  <img src="docs/assets/bench-logo.svg" width="250" alt="bench logo">
+</p>
 
 ## 🌱 Features
 
