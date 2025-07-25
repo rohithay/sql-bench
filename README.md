@@ -1,9 +1,5 @@
 # bench
 <p align="center">
-  <img src="docs/assets/bench-logo.svg" width="250" alt="bench logo">
-</p>
-
-<p align="center">
   <a href="https://pypi.org/project/bench/"><img src="https://img.shields.io/pypi/v/bench.svg" alt="PyPI Version"></a>
   <a href="https://pypi.org/project/bench/"><img src="https://img.shields.io/pypi/pyversions/bench.svg" alt="Python Versions"></a>
   <a href="https://codecov.io/gh/rohithay/bench"><img src="https://codecov.io/gh/rohithay/bench/branch/main/graph/badge.svg" alt="Coverage Status"></a>
