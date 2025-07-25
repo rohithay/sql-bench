@@ -1,4 +1,4 @@
-# bench
+# `sql-bench`
 <p align="center">
   <a href="https://pypi.org/project/bench/"><img src="https://img.shields.io/pypi/v/bench.svg" alt="PyPI Version"></a>
   <a href="https://pypi.org/project/bench/"><img src="https://img.shields.io/pypi/pyversions/bench.svg" alt="Python Versions"></a>
